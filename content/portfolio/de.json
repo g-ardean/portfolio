@@ -1,0 +1,100 @@
+{
+  "language": "Sprache",
+  "nav": {
+    "about": "Über mich",
+    "education": "Ausbildung",
+    "experience": "Erfahrung",
+    "documents": "Dokumente",
+    "contact": "Kontakt",
+    "open": "Navigation öffnen",
+    "close": "Navigation schließen"
+  },
+  "hero": {
+    "eyebrow": "PERSÖNLICHES PORTFOLIO",
+    "description": "Hallo, ich bin {name}. Ich bin Full-Stack-Entwickler mit einem Hintergrund in Informationstechnologie und Telekommunikation. Ich löse gerne Probleme, lerne neue Technologien und entwickle nützliche digitale Lösungen.",
+    "experience": "Meine Erfahrung entdecken",
+    "qualifications": "Meine Qualifikationen ansehen",
+    "education": "Ausbildung",
+    "development": "Webentwicklung",
+    "learning": "Lebenslanges Lernen",
+    "background": "MEIN HINTERGRUND",
+    "technology": "Technologie",
+    "alwaysLearning": "Immer am Lernen",
+    "creativity": "Kreativität",
+    "growth": "Wachstum",
+    "titleEmphasis": "Technologie.",
+    "titleSecond": "mit",
+    "titleFirst": "Ich gestalte meine Zukunft"
+  },
+  "about": {
+    "eyebrow": "01 / ÜBER MICH",
+    "p1": "Mein Hintergrund verbindet eine formale Ausbildung in Informationstechnologie und Telekommunikation mit praktischer Erfahrung in der Webentwicklung.",
+    "p2": "Während meiner Ausbildung habe ich Grundlagen in Programmierung, Datenbanken, Computersystemen und Netzwerken erworben. Dadurch habe ich verstanden, wie Software und Technologie zusammenspielen.",
+    "p3": "Neben meiner beruflichen Erfahrung entdecke ich gerne neue Technologien, verbessere kontinuierlich meine technischen Fähigkeiten und arbeite an Projekten, die kreatives Denken fördern. Außerdem interessiere ich mich für klassische Musik, insbesondere spiele ich Klarinette und komponiere gelegentlich Duette für Klarinette und Flöte.",
+    "titleEmphasis": "mich.",
+    "introSecond": "Auf Wachstum fokussiert.",
+    "introFirst": "Von Natur aus neugierig.",
+    "titleStart": "Ein wenig über"
+  },
+  "education": {
+    "eyebrow": "02 / AUSBILDUNG & FÄHIGKEITEN",
+    "description": "Wissen und praktische Fähigkeiten aus meiner Ausbildung und dem eigenständigen Lernen.",
+    "formal": "FORMALER ABSCHLUSS",
+    "degree": "Diplom in Informationstechnologie und Telekommunikation",
+    "diploma": "Schulabschluss · \"S. Ten. Vasc. A. Badoni\", Lecco (LC), Italien",
+    "study": "Meine Ausbildung vermittelte Grundlagen in Softwareentwicklung, Informationssystemen, Datenbanken, Computerarchitektur und Telekommunikation. Am Ende findest du mein offizielles Diplom und meinen Europass-Lebenslauf.",
+    "placeholder": "Diplom über die Ergebnisse der staatlichen Abschlussprüfung am Ende des Bildungsgangs, Niveau 4 des Europäischen Qualifikationsrahmens (EQR), ausgestellt vom Bildungsministerium. Technisches Institut (technologischer Zweig), Fachrichtung Informatik und Telekommunikation, Schwerpunkt Informatik.",
+    "technologies": "Technologien, mit denen ich gearbeitet habe",
+    "titleEmphasis": "Fundament.",
+    "titleStart": "Mein technisches"
+  },
+  "experience": {
+    "eyebrow": "03 / ERFAHRUNG",
+    "description": "Mein beruflicher Werdegang, die übernommenen Aufgaben und die dabei entwickelten Fähigkeiten.",
+    "titleEmphasis": "gewachsen.",
+    "titleStart": "Daran bin ich"
+  },
+  "documents": {
+    "eyebrow": "04 / DOKUMENTE",
+    "description": "Ein näherer Blick auf meine Ausbildung und beruflichen Unterlagen.",
+    "diplomaType": "DIPLOM",
+    "diplomaTitle": "Schulabschluss",
+    "diplomaDescription": "Informationstechnologie und Telekommunikation",
+    "view": "Dokument ansehen ↗",
+    "europass": "EUROPASS-LEBENSLAUF",
+    "cvTitle": "Europass-Lebenslauf",
+    "threePages": "Dreiteiliges Dokument",
+    "viewAll": "Alle Seiten ansehen ↗",
+    "note": "Wähle ein Dokument aus, um es zu vergrößern. Die Unterlagen dienen als berufliche Referenz.",
+    "page": "Europass-Lebenslauf — Seite {number}",
+    "previousPage": "Vorherige Europass-Seite",
+    "nextPage": "Nächste Europass-Seite",
+    "preview": "Dokumentvorschau",
+    "close": "Dokumentvorschau schließen",
+    "titleEmphasis": "Zertifikate.",
+    "titleStart": "Abschlüsse &"
+  },
+  "contact": {
+    "eyebrow": "05 / KONTAKT",
+    "description": "Ich freue mich darauf, Neues zu lernen, Chancen zu entdecken und mich mit Menschen auszutauschen, die sich für Technologie interessieren.",
+    "email": "Per E-Mail kontaktieren ↗",
+    "github": "GitHub ↗",
+    "linkedin": "LinkedIn ↗",
+    "titleEmphasis": "Bedeutungsvolles",
+    "titleTail": " schaffen.",
+    "titleFirst": "Lass uns etwas",
+    "phone": "Telefon"
+  },
+  "footer": {
+    "copyright": "© {year} {name}. Alle Rechte vorbehalten.",
+    "top": "Zurück nach oben ↑"
+  },
+  "languageNames": {
+    "it": "Italienisch",
+    "de": "Deutsch",
+    "en": "Englisch"
+  },
+  "profile": {
+    "portraitAlt": "Porträt"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "language": "Lingua",
+  "nav": {
+    "about": "Chi sono",
+    "education": "Formazione",
+    "experience": "Esperienza",
+    "documents": "Documenti",
+    "contact": "Contatti",
+    "open": "Apri il menu di navigazione",
+    "close": "Chiudi il menu di navigazione"
+  },
+  "hero": {
+    "eyebrow": "PORTFOLIO PERSONALE",
+    "description": "Ciao, sono {name}. Sono uno sviluppatore full-stack con una formazione in Informatica e Telecomunicazioni. Mi piace risolvere problemi, imparare nuove tecnologie e creare soluzioni digitali utili.",
+    "experience": "Scopri la mia esperienza",
+    "qualifications": "Consulta le mie qualifiche",
+    "education": "Formazione",
+    "development": "Sviluppo web",
+    "learning": "Sempre in apprendimento",
+    "background": "IL MIO PERCORSO",
+    "technology": "Tecnologia",
+    "alwaysLearning": "Sempre a imparare",
+    "creativity": "Creatività",
+    "growth": "Crescita",
+    "titleEmphasis": "tecnologia.",
+    "titleSecond": "attraverso la",
+    "titleFirst": "Costruisco il mio futuro"
+  },
+  "about": {
+    "eyebrow": "01 / CHI SONO",
+    "p1": "Il mio percorso unisce una formazione in Informatica e Telecomunicazioni all'esperienza pratica nello sviluppo web.",
+    "p2": "Durante gli studi ho acquisito basi di programmazione, database, sistemi informatici e reti. Queste competenze mi hanno aiutato a capire come software e tecnologia lavorano insieme.",
+    "p3": "Al di fuori dell'esperienza professionale, mi piace esplorare nuove tecnologie, migliorare costantemente le mie competenze tecniche e lavorare a progetti che stimolano la creatività. Sono anche appassionato di musica classica, in particolare suono il clarinetto e ogni tanto compongo duetti per clarinetto e flauto.",
+    "titleEmphasis": "di me.",
+    "introSecond": "Concentrato sulla crescita.",
+    "introFirst": "Curioso per natura.",
+    "titleStart": "Qualcosa su"
+  },
+  "education": {
+    "eyebrow": "02 / FORMAZIONE E COMPETENZE",
+    "description": "Le conoscenze e competenze pratiche sviluppate con la formazione e l'apprendimento professionale.",
+    "formal": "FORMAZIONE",
+    "degree": "Diploma in Informatica e Telecomunicazioni",
+    "diploma": "Diploma di scuola superiore · \"S. Ten. Vasc. A. Badoni\", Lecco (LC), Italia",
+    "study": "Il percorso di studi mi ha fornito basi di sviluppo software, sistemi informativi, database, architettura dei computer e telecomunicazioni. In fondo alla pagina trovi il diploma ufficiale e il CV Europass.",
+    "placeholder": "Diploma che certifica i risultati dell'esame di Stato al termine del percorso di studi, livello 4 del Quadro europeo delle qualifiche (EQF), rilasciato dal Ministero dell'Istruzione. Istituto tecnico (settore tecnologico), indirizzo Informatica e Telecomunicazioni, articolazione Informatica.",
+    "technologies": "Tecnologie con cui ho lavorato",
+    "titleEmphasis": "tecniche.",
+    "titleStart": "Le mie basi"
+  },
+  "experience": {
+    "eyebrow": "03 / ESPERIENZA",
+    "description": "Il mio percorso professionale, le responsabilità assunte e le competenze che ho sviluppato.",
+    "titleEmphasis": "crescita.",
+    "titleStart": "Il mio percorso di"
+  },
+  "documents": {
+    "eyebrow": "04 / DOCUMENTI",
+    "description": "Uno sguardo più da vicino alla mia formazione e alla documentazione professionale.",
+    "diplomaType": "DIPLOMA",
+    "diplomaTitle": "Diploma di scuola superiore",
+    "diplomaDescription": "Informatica e Telecomunicazioni",
+    "view": "Visualizza documento ↗",
+    "europass": "CV EUROPASS",
+    "cvTitle": "CV Europass",
+    "threePages": "Documento di tre pagine",
+    "viewAll": "Visualizza tutte le pagine ↗",
+    "note": "Seleziona un documento per ingrandirlo. I documenti sono forniti come riferimento professionale.",
+    "page": "CV Europass — Pagina {number}",
+    "previousPage": "Pagina precedente del CV Europass",
+    "nextPage": "Pagina successiva del CV Europass",
+    "preview": "Anteprima documento",
+    "close": "Chiudi anteprima documento",
+    "titleEmphasis": "certificati.",
+    "titleStart": "Qualifiche e"
+  },
+  "contact": {
+    "eyebrow": "05 / CONTATTI",
+    "description": "Mi interessa imparare, esplorare nuove opportunità e conoscere persone che condividono la passione per la tecnologia.",
+    "email": "Scrivimi via email ↗",
+    "github": "GitHub ↗",
+    "linkedin": "LinkedIn ↗",
+    "phone": "Telefono",
+    "titleEmphasis": "significativo.",
+    "titleTail": "",
+    "titleFirst": "Creiamo qualcosa di"
+  },
+  "footer": {
+    "copyright": "© {year} {name}. Tutti i diritti riservati.",
+    "top": "Torna all'inizio ↑"
+  },
+  "languageNames": {
+    "it": "Italiano",
+    "de": "Tedesco",
+    "en": "Inglese"
+  },
+  "profile": {
+    "portraitAlt": "Ritratto di Gabriel"
+  }
+}

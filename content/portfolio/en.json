@@ -1,0 +1,100 @@
+{
+  "language": "Language",
+  "nav": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "documents": "Documents",
+    "contact": "Contact",
+    "open": "Open navigation menu",
+    "close": "Close navigation menu"
+  },
+  "hero": {
+    "eyebrow": "PERSONAL PORTFOLIO",
+    "description": "Hello, I'm {name}. I'm a full-stack developer with a background in Information Technology and Telecommunications. I enjoy solving problems, learning new technologies and building useful digital solutions.",
+    "experience": "Explore my experience",
+    "qualifications": "View my qualifications",
+    "education": "Education",
+    "development": "Web Development",
+    "learning": "Always Learning",
+    "background": "MY BACKGROUND",
+    "technology": "Technology",
+    "alwaysLearning": "Always learning",
+    "creativity": "Creativity",
+    "growth": "Growth",
+    "titleEmphasis": "technology.",
+    "titleSecond": "through",
+    "titleFirst": "Building my future"
+  },
+  "about": {
+    "eyebrow": "01 / ABOUT ME",
+    "p1": "My background combines formal education in Information Technology and Telecommunications with practical experience in web development.",
+    "p2": "During my studies, I developed a foundation in programming, databases, computer systems and networking. These skills helped me understand how software and technology work together.",
+    "p3": "Outside my professional experience, I enjoy exploring new technologies, continuously improving my technical skills, and working on projects that challenge me to think creatively. I am also passionate about classical music, particularly playing the clarinet and occasionally composing duets for clarinet and flute.",
+    "titleEmphasis": "myself.",
+    "introSecond": "Focused on growth.",
+    "introFirst": "Curious by nature.",
+    "titleStart": "A little about"
+  },
+  "education": {
+    "eyebrow": "02 / EDUCATION & SKILLS",
+    "description": "The knowledge and practical skills I developed through my education and professional learning.",
+    "formal": "FORMAL EDUCATION",
+    "degree": "Diploma in Information Technology and Telecommunications",
+    "diploma": "High School Diploma · \"S. Ten. Vasc. A. Badoni\", Lecco (LC), Italy",
+    "study": "My studies provided a foundation in software development, information systems, databases, computer architecture and telecommunications. See at the end for the official Diploma and Europass CV.",
+    "placeholder": "Diploma certifying the results of the state exam at the end of the course of studies in EQF - Level 4, issued by the Ministry of Education, Technical Institute (technological sector), specialization in Informatics and Telecommunications, branch: Informatics.",
+    "technologies": "Technologies I have worked with",
+    "titleEmphasis": "foundation.",
+    "titleStart": "My technical"
+  },
+  "experience": {
+    "eyebrow": "03 / EXPERIENCE",
+    "description": "My professional journey, the responsibilities I have taken on and the skills I have developed.",
+    "titleEmphasis": "grown.",
+    "titleStart": "Where I've"
+  },
+  "documents": {
+    "eyebrow": "04 / DOCUMENTS",
+    "description": "A closer look at my educational background and professional documentation.",
+    "diplomaType": "DIPLOMA",
+    "diplomaTitle": "High School Diploma",
+    "diplomaDescription": "Information Technology and Telecommunications",
+    "view": "View document ↗",
+    "europass": "EUROPASS CV",
+    "cvTitle": "Europass CV",
+    "threePages": "Three-page document",
+    "viewAll": "View all pages ↗",
+    "note": "Select a document to enlarge it. All documents are provided for professional reference.",
+    "page": "Europass CV — Page {number}",
+    "previousPage": "Previous Europass page",
+    "nextPage": "Next Europass page",
+    "preview": "Document preview",
+    "close": "Close document preview",
+    "titleEmphasis": "certificates.",
+    "titleStart": "Qualifications &"
+  },
+  "contact": {
+    "eyebrow": "05 / GET IN TOUCH",
+    "description": "I'm always interested in learning, exploring new opportunities and connecting with people who share an interest in technology.",
+    "email": "Contact me via email ↗",
+    "github": "GitHub ↗",
+    "linkedin": "LinkedIn ↗",
+    "titleEmphasis": "meaningful.",
+    "titleTail": "",
+    "titleFirst": "Let's create something",
+    "phone": "Phone"
+  },
+  "footer": {
+    "copyright": "© {year} {name}. All rights reserved.",
+    "top": "Back to top ↑"
+  },
+  "languageNames": {
+    "it": "Italian",
+    "de": "German",
+    "en": "English"
+  },
+  "profile": {
+    "portraitAlt": "Portrait"
+  }
+}

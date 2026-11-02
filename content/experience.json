@@ -1,0 +1,104 @@
+{
+  "en": [
+    {
+      "category": "WAREHOUSING & LOGISTICS",
+      "title": "Order Picker",
+      "company": "Netto Zentrallager · Tuningen, Baden-Württemberg, Germany",
+      "dates": "February 2026 - Present",
+      "description": "Working as an order picker in Tuningen, Baden-Württemberg."
+    },
+    {
+      "category": "WEB DEVELOPMENT",
+      "title": "Junior Full-Stack Developer",
+      "company": "YetOpen · Lecco (LC), Italy",
+      "dates": "August 2024 - October 2025",
+      "description": "Worked on full-stack web applications, contributing to backend development, frontend interfaces, API integrations and database-related tasks.",
+      "points": [
+        "Developed backend functionality using PHP and Yii2.",
+        "Built frontend interfaces with JavaScript, Vue.js and Nuxt.",
+        "Worked with SQL databases, REST APIs and Docker.",
+        "Collaborated on application development and technical problem-solving."
+      ]
+    },
+    {
+      "category": "EARLY CAREER",
+      "title": "Trainee Full-Stack Developer",
+      "company": "YetOpen · Lecco (LC), Italy",
+      "dates": "March 2023 - May 2024",
+      "description": "Gained practical experience in software development while completing my secondary education.",
+      "points": [
+        "Applied programming concepts to real development tasks.",
+        "Learned how frontend and backend components work together.",
+        "Developed practical experience with debugging, databases and web technologies."
+      ]
+    }
+  ],
+  "de": [
+    {
+      "category": "LAGER & LOGISTIK",
+      "title": "Kommissionierer",
+      "company": "Netto-Zentrallager · Tuningen, Baden-Württemberg, Deutschland",
+      "dates": "Seit Februar 2026",
+      "description": "Ich arbeite als Kommissionierer im Netto-Zentrallager in Tuningen, Baden-Württemberg."
+    },
+    {
+      "category": "WEBENTWICKLUNG",
+      "title": "Junior Full-Stack-Entwickler",
+      "company": "YetOpen · Lecco (LC), Italien",
+      "dates": "August 2024 – Oktober 2025",
+      "description": "Mitarbeit an Full-Stack-Webanwendungen mit Aufgaben in Backend- und Frontend-Entwicklung, API-Integration und Datenbanken.",
+      "points": [
+        "Backend-Funktionen mit PHP und Yii2 entwickelt.",
+        "Frontend-Oberflächen mit JavaScript, Vue.js und Nuxt erstellt.",
+        "Mit SQL-Datenbanken, REST-APIs und Docker gearbeitet.",
+        "Bei der Anwendungsentwicklung und technischen Problemlösung mitgewirkt."
+      ]
+    },
+    {
+      "category": "BERUFSEINSTIEG",
+      "title": "Trainee Full-Stack-Entwickler",
+      "company": "YetOpen · Lecco (LC), Italien",
+      "dates": "März 2023 – Mai 2024",
+      "description": "Praktische Erfahrung in der Softwareentwicklung während des Schulabschlusses gesammelt.",
+      "points": [
+        "Programmierkonzepte auf reale Entwicklungsaufgaben angewendet.",
+        "Das Zusammenspiel von Frontend und Backend kennengelernt.",
+        "Erfahrung mit Debugging, Datenbanken und Webtechnologien gesammelt."
+      ]
+    }
+  ],
+  "it": [
+    {
+      "category": "MAGAZZINO E LOGISTICA",
+      "title": "Addetto alla preparazione degli ordini",
+      "company": "Centro logistico Netto · Tuningen, Baden-Württemberg, Germania",
+      "dates": "Da febbraio 2026",
+      "description": "Lavoro come addetto al picking presso il magazzino centrale Netto a Tuningen, nel Baden-Württemberg."
+    },
+    {
+      "category": "SVILUPPO WEB",
+      "title": "Junior Full-Stack Developer",
+      "company": "YetOpen · Lecco (LC), Italia",
+      "dates": "Agosto 2024 – ottobre 2025",
+      "description": "Ho lavorato su applicazioni web full-stack, contribuendo allo sviluppo backend e frontend, alle integrazioni API e alle attività sui database.",
+      "points": [
+        "Sviluppato funzionalità backend con PHP e Yii2.",
+        "Realizzato interfacce frontend con JavaScript, Vue.js e Nuxt.",
+        "Lavorato con database SQL, API REST e Docker.",
+        "Collaborato allo sviluppo di applicazioni e alla risoluzione di problemi tecnici."
+      ]
+    },
+    {
+      "category": "INIZIO CARRIERA",
+      "title": "Tirocinante sviluppatore full-stack",
+      "company": "YetOpen · Lecco (LC), Italia",
+      "dates": "Marzo 2023 – maggio 2024",
+      "description": "Ho acquisito esperienza pratica nello sviluppo software durante il completamento degli studi secondari.",
+      "points": [
+        "Applicato concetti di programmazione a incarichi reali.",
+        "Imparato come collaborano i componenti frontend e backend.",
+        "Acquisito esperienza con debug, database e tecnologie web."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "technologies": [
+    "PHP",
+    "Python",
+    "Yii2",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Vue.js",
+    "Nuxt",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "Docker",
+    "REST APIs",
+    "Git",
+    "Linux",
+    "CI/CD",
+    "Unit Testing",
+    "Agile Methodologies",
+    "User Experience (UX)",
+    "User Interface (UI)",
+    "Responsive Design"
+  ],
+  "locales": {
+    "en": [
+      {
+        "title": "Programming",
+        "description": "Understanding programming logic, algorithms, variables, functions, data structures and problem-solving techniques."
+      },
+      {
+        "title": "Web Development",
+        "description": "Building web applications using HTML, CSS, JavaScript and backend programming concepts."
+      },
+      {
+        "title": "Databases",
+        "description": "Working with relational database concepts, SQL queries, data organisation and database management."
+      },
+      {
+        "title": "Computer Systems",
+        "description": "Understanding computer architecture, operating systems, hardware and software interactions."
+      },
+      {
+        "title": "Networks & Telecommunications",
+        "description": "Fundamental knowledge of computer networks, communication protocols and data transmission."
+      },
+      {
+        "title": "Technical Problem-Solving",
+        "description": "Analysing problems, troubleshooting issues and applying logical approaches to technical challenges."
+      }
+    ],
+    "de": [
+      {
+        "title": "Programmierung",
+        "description": "Grundlagen zu Programmierlogik, Algorithmen, Variablen, Funktionen, Datenstrukturen und Problemlösung."
+      },
+      {
+        "title": "Webentwicklung",
+        "description": "Entwicklung von Webanwendungen mit HTML, CSS, JavaScript und Backend-Konzepten."
+      },
+      {
+        "title": "Datenbanken",
+        "description": "Relationale Datenbankkonzepte, SQL-Abfragen, Datenorganisation und Datenbankverwaltung."
+      },
+      {
+        "title": "Computersysteme",
+        "description": "Computerarchitektur, Betriebssysteme sowie das Zusammenspiel von Hard- und Software."
+      },
+      {
+        "title": "Netzwerke & Telekommunikation",
+        "description": "Grundkenntnisse zu Netzwerken, Kommunikationsprotokollen und Datenübertragung."
+      },
+      {
+        "title": "Technische Problemlösung",
+        "description": "Probleme analysieren, Fehler beheben und technische Herausforderungen systematisch lösen."
+      }
+    ],
+    "it": [
+      {
+        "title": "Programmazione",
+        "description": "Logica di programmazione, algoritmi, variabili, funzioni, strutture dati e tecniche di problem solving."
+      },
+      {
+        "title": "Sviluppo web",
+        "description": "Creazione di applicazioni web con HTML, CSS, JavaScript e concetti di programmazione backend."
+      },
+      {
+        "title": "Database",
+        "description": "Concetti di database relazionali, query SQL, organizzazione dei dati e gestione dei database."
+      },
+      {
+        "title": "Sistemi informatici",
+        "description": "Architettura dei computer, sistemi operativi e interazione tra hardware e software."
+      },
+      {
+        "title": "Reti e telecomunicazioni",
+        "description": "Conoscenze fondamentali di reti informatiche, protocolli di comunicazione e trasmissione dati."
+      },
+      {
+        "title": "Risoluzione di problemi tecnici",
+        "description": "Analisi dei problemi, diagnostica e applicazione di approcci logici alle sfide tecniche."
+      }
+    ]
+  }
+}
